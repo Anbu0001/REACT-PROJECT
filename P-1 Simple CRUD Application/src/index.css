@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 30px;
+}
+
+.App{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+ 
+}
+
+.from{
+  
+  display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ border: 20px solid black;
+ width:500px;
+ margin: 5px auto;
+ padding: 20px;
+
+}
