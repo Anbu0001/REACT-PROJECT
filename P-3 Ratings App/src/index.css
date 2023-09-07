@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: black;
+}
+
+.App{
+  font-family: sans-serif;
+  text-align: center;
+  color: blanchedalmond;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+  padding: 100px;
+  
+}
+.App > div{
+  margin-left: 20px;
+  color: #615b5b;
+}
+
+.bg{
+  color: orange;
+}
+
