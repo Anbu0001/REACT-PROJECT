@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App{
+  text-align: center;
+  justify-content: center;
+ 
+  }
+  h1{
+    padding: 50px;
+    background-color: #ce8686;
+    margin: 20px;
+  }
+  .body{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-size: 150px;
+    margin: 20px;
+    padding: 40px;
+    background-color: #beb6b6;
+
+    }
+
+    .display{
+      text-align:center;
+      font-size: 70px;
+     
+      
+
+    }
